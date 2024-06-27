@@ -1,0 +1,412 @@
+@media only screen and (max-width: 576px) {
+  .sliderCarvariations .swiper-scrollbar {
+    bottom: 39px !important;
+  }
+  .sliderCarvariations .swiper-pagination .swiper-pagination-bullet::before {
+    border: 2px solid #fff;
+    width: 10px;
+    height: 10px;
+  }
+  .sliderCarvariations
+    .swiper-pagination
+    .swiper-pagination-bullet-active::before {
+    border: 2px solid #2f575d;
+  }
+  .sliderCarvariations .swiper-pagination .swiper-pagination-bullet {
+    font-size: 12px;
+    margin: 0 auto !important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .section-banner .swiper-slide img {
+    height: auto;
+  }
+  .slider-info {
+    width: 100%;
+  }
+  .slider-info h1 {
+    font-size: 32px;
+  }
+  .slider-info h5 {
+    font-size: 1rem;
+  }
+  .slider-action-buttons {
+    margin-top: 1rem;
+  }
+  .slider-action-buttons .btn {
+    margin: 0 10px;
+  }
+  .btn {
+    --bs-btn-padding-x: 2rem;
+  }
+  .beauty-info h2 {
+    font-size: 40px;
+  }
+  .beauty-info h4 {
+    font-size: 22px;
+    letter-spacing: 10px;
+    padding-left: 0;
+    margin-top: 0;
+  }
+  .service-image img {
+    height: auto;
+  }
+  .service-box h3 {
+    padding: 20px;
+  }
+  .title-40 h2 {
+    font-size: 30px;
+  }
+  .title-40 h4 {
+    font-size: 18px;
+    color: #bababa;
+  }
+  .title-40 h2 {
+    font-size: 26px;
+  }
+  .article-image img {
+    height: auto;
+  }
+  .article-box .article-content {
+    padding: 20px;
+  }
+  footer h4 {
+    margin-bottom: 1rem;
+  }
+  .footerlinks li a {
+    line-height: 32px;
+  }
+  .copyright-bar {
+    text-align: center;
+  }
+  .copyright {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .footer-social-icons {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .beauty-concept h2 {
+    font-size: 34px;
+  }
+  .beauty-concept h2 span > br {
+    display: none;
+  }
+  .title h2 {
+    font-size: 32px;
+  }
+  .sliderTabs .nav-tabs {
+    margin-bottom: 30px;
+    justify-content: center;
+  }
+  .sliderTabs .nav-tabs .nav-link {
+    padding: 5px;
+    margin-right: 0;
+  }
+  .mb-5 {
+    margin-bottom: 1rem !important;
+  }
+  .sliderModels .thumbImage {
+    width: 100%;
+    position: static;
+    height: auto;
+  }
+  .sliderModels .thumbImage .swiper-slide img {
+    height: 30px;
+  }
+  .sliderModels {
+    padding-left: 0px;
+  }
+  .sliderModels .thumbImage .swiper-slide-thumb-active img {
+    transform: scale(1);
+  }
+  .section-carmodels {
+    min-height: 80vh;
+    padding: 2rem 0;
+  }
+  .sliderModels .gallery-content p {
+    font-size: 14px;
+    line-height: normal;
+  }
+  .sliderModels .gallery-content .vehicle-features {
+    margin-top: 20px;
+  }
+  .sliderModels .gallery-content .vehicle-color-variations {
+    margin-bottom: 0px;
+  }
+  .sliderModels .gallery-content .vehicle-action-buttons {
+    margin: 20px 0px;
+  }
+  .sliderModels .gallery-content .vehicle-features h4 {
+    font-size: 1rem;
+  }
+  .section-carmodels::before {
+    width: 100%;
+  }
+  p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .beauty-introduction h4 {
+    font-size: 24px;
+    line-height: normal;
+    margin-top: 20px;
+  }
+  .title-joy h2 {
+    font-size: 28px;
+    padding-right: 0;
+    line-height: normal;
+  }
+  .viewcar-content {
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+  }
+  .title-stylish h2 {
+    font-size: 46px;
+  }
+  .title-stylish p {
+    margin: 30px 0;
+    padding-right: 0;
+  }
+  .title h3 {
+    font-size: 30px;
+    line-height: normal;
+  }
+  .p-5 {
+    padding: 3rem 1rem !important;
+  }
+  .vision-banner-box .vision-banner-content {
+    width: 90%;
+  }
+  .vision-banner-content h4 {
+    font-weight: 500;
+    font-size: 18px;
+  }
+  .vision-banner-content h3 {
+    font-weight: 600;
+    font-size: 22px;
+  }
+  .vision-banner-box.right .vision-banner-content {
+    right: auto;
+  }
+  .custom-title h3 {
+    font-size: 80px;
+    letter-spacing: 1rem;
+  }
+  .engine-features {
+    padding-left: 0;
+  }
+  .institude-timeline ul li > br {
+    display: none;
+  }
+  .institude-timeline ul {
+    display: block;
+  }
+  .institude-timeline::after {
+    height: 100%;
+    left: 37px;
+    width: 2px;
+    top: 0;
+    bottom: 0;
+    right: auto;
+    margin: auto;
+  }
+  .institude-timeline ul li {
+    text-align: left;
+    padding-left: 80px;
+    margin: 0 !important;
+  }
+  .institude-timeline ul li::after {
+    right: auto;
+    left: 30px;
+  }
+  .institude-timeline ul li:nth-child(2n + 1)::after {
+    bottom: 0;
+    top: 0;
+  }
+  .institude-timeline ul li:nth-child(2n)::after {
+    top: 0;
+    bottom: 0;
+  }
+  .timeline-content h4 {
+    right: 10px;
+    height: 24px;
+    font-size: 22px;
+  }
+  .timeline-box.right .timeline-content {
+    padding-left: 70px;
+  }
+  .timeline-box.right .timeline-content h4 {
+    left: 10px;
+  }
+  .timeline-content p {
+    font-size: 14px;
+  }
+  .timeline-image {
+    padding-left: 20px;
+  }
+  .timeline-content {
+    padding-right: 70px;
+  }
+  .timeline-box.right .timeline-image {
+    padding-right: 20px;
+  }
+  .featured .sales-image img {
+    height: auto;
+  }
+  .sales-content {
+    padding: 20px 20px 0px 20px;
+  }
+  .sales-content h3 {
+    font-size: 28px;
+  }
+  .section-sales-services h4 {
+    font-size: 28px;
+  }
+  .section-sales-services h4 {
+    font-size: 24px;
+  }
+  .featured-service-content {
+    padding: 20px;
+  }
+  .featured-service-image img {
+    height: 250px;
+    object-fit: cover;
+  }
+  .section-questionnaire-content {
+    padding: 10px;
+  }
+  .section-questionnaire-content h3 {
+    font-size: 24px;
+  }
+  .section-questionnaire-content h5 {
+    font-size: 22px;
+  }
+  .section-questionnaire img {
+    height: 300px;
+    object-fit: cover;
+  }
+  .news-box h4 {
+    font-size: 22px;
+  }
+  .news-box {
+    padding: 15px;
+    margin-bottom: 12px;
+  }
+  .form-box .field-group label {
+    border-right: 0;
+    font-size: 1rem;
+    padding-left: 1rem;
+  }
+  .form-box .field-group {
+    background: transparent;
+    padding: 0px;
+  }
+  .form-box .field-group .input-box {
+    background: #f3f3f3;
+    font-size: 1rem;
+    border-radius: 50px;
+    padding: 10px 30px;
+  }
+  .page-heading-info {
+    width: 100%;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .page-heading-info p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .page-heading-info h1 {
+    font-size: 2rem;
+  }
+  .navbar {
+    --bs-navbar-padding-x: 0rem;
+    --bs-navbar-padding-y: 1rem;
+  }
+  .navbar-toggler {
+    padding: 0;
+    border: 0;
+  }
+  .navbar-toggler:focus,
+  .navbar-toggler:focus-visible {
+    box-shadow: none;
+    outline: 0;
+  }
+  .site-header .navbar .navbar-collapse {
+    position: absolute;
+    top: 72px;
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    z-index: 9;
+    border-bottom: 1px solid #ebeef5;
+  }
+  .navbar-nav .nav-link {
+    border-top: 1px solid #ebeef5;
+    padding: 15px;
+    font-size: 1rem;
+    position: relative;
+  }
+  .site-header .navbar-nav .nav-item .nav-link.dropdown-toggle::after {
+    display: block;
+    content: "+";
+    border: 0;
+    position: absolute;
+    right: 0;
+    width: 50px;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    top: 0;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  .dropdown-links .dropdown-item {
+    display: block;
+    width: auto;
+    padding: 10px;
+    text-align: left;
+    line-height: normal;
+    font-size: 14px;
+  }
+  .site-header .navbar-nav .dropdown-menu {
+    background: rgba(0, 0, 0, 0.02);
+    transform: 0;
+    border-top: 1px solid #ebeef5;
+  }
+  .page-heading-info h2 {
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  .car-pattern1 {
+    position: relative;
+    margin-top: -48px;
+  }
+  .except-all-navigation {
+    display: none;
+  }
+  .modelTabs.d-flex {
+    display: block !important;
+  }
+  .modelbox img {
+    height: 40px;
+    margin: 10px auto;
+  }
+  .beauty-simplicity-content h2 {
+    font-size: 46px;
+  }
+  .beauty-simplicity-content p {
+    font-size: 18px;
+    color: #343434;
+  }
+  .beauty-concept h2 > br {
+    display: none;
+  }
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'break_brushregular';
+    src: url('../fonts/break_brush-webfont.eot');
+    src: url('../fonts/break_brush-webfont.eot') format('embedded-opentype'),
+         url('../fonts/break_brush-webfont.woff2') format('woff2'),
+         url('../fonts/break_brush-webfont.woff') format('woff'),
+         url('../fonts/break_brush-webfont.ttf') format('truetype'),
+         url('../fonts/break_brush-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

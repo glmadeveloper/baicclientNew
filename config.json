@@ -1,0 +1,17 @@
+{
+  "local": {
+    "apiRoot": "http://localhost:5001/",
+    "routerAppBaseUrl": "/",
+    "imageApi": "http://localhost:5001/uploads/.tmp/"
+  },
+  "dev": {
+    "apiRoot": "https://redspark.a2hosted.com:30006/",
+    "routerAppBaseUrl": "/baic",
+    "imageApi": "https://redspark.a2hosted.com:30006/uploads/.tmp/"
+  },
+  "prod": {
+    "apiRoot": "https://redspark.a2hosted.com:30006/",
+    "routerAppBaseUrl": "/",
+    "imageApi": "https://redspark.a2hosted.com:30006/uploads/.tmp/"
+  }
+}
